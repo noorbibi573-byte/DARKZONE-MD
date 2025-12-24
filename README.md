@@ -113,7 +113,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://dark-zone-hosting-c4c34e97e034.herokuapp.com/" target="_blank">
+      <a href="https://irfan-host-fe98bb4e138c.herokuapp.com/" target="_blank">
         <img alt="FREE-VPS-SITE" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
